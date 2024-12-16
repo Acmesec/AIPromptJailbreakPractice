@@ -1,0 +1,95 @@
+中文版
+
+版权所有 (C) 2024 Acmesec
+
+根据 Apache 许可证 2.0 版授权（“许可证”）；
+除非遵守许可证的规定，否则不得使用此文件。
+您可以在以下网址获取许可证副本：
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+除非适用法律要求或书面同意，否则按“原样”分发的
+软件将按“原样”分发，不附带任何形式的明示或暗示的担保或条件。
+有关管理权限和限制的特定语言，请参阅许可证。
+
+1. 署名要求
+
+任何组织/个人对本作品进行任何形式的使用、修改、分发、复制、演绎等行为（包括但不限于增添、删除、修改），都必须在所有副本和衍生作品中清晰且显著地标注项目来源。署名信息应包含以下内容：
+
+*   原始项目：AIPromptJailbreakPractice (https://github.com/Acmesec/AIPromptJailbreakPractice)
+*   原始作者：Acmesec
+
+署名信息应置于：(a) 如果是源代码形式，则在每个源文件的头部注释中；(b) 如果是二进制形式，则在相关文档（例如 README 文件、用户手册等）的显著位置。
+
+2. 商业使用授权
+
+本许可证允许在获得 Acmesec 明确书面授权的前提下进行商业使用。“商业使用”包括但不限于：
+
+*   有偿销售、许可或分发本作品。
+*   使用本作品提供商业服务。
+*   使用本作品推广商业产品或服务。
+*   将本作品集成到商业产品中。
+
+任何旨在或针对商业优势或金钱补偿而使用本作品的行为均被视为商业使用。
+
+要获得商业使用的授权，请在本项目的 GitHub 仓库 (https://github.com/Acmesec/AIPromptJailbreakPractice) 中创建一个新的 Issue，并在 Issue 中清晰地描述您的商业使用计划。Acmesec 将根据其内部决策流程对商业使用授权申请进行评估，并在该 Issue 中回复您的请求。
+
+任何未经 Acmesec 书面授权的商业使用均被视为违反本许可证。
+
+重新分发和使用源代码和二进制形式，无论是否修改，只要满足以下条件，都允许使用：
+
+1. 您必须提供适当的署名，提供指向许可证的链接，并说明是否进行了更改。您可以通过任何合理的方式进行此操作，但不得以任何暗示许可方认可您或您的使用的方式进行。
+
+2. 如果您分发本作品的任何部分，则必须包含本许可证的副本。
+
+这是管理本作品的权限和限制的完整许可证。
+
+---
+
+English Version
+
+Copyright (C) 2024 Acmesec
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+1. Attribution Requirement
+
+Any organization/individual that uses, modifies, distributes, copies, or creates derivative works of this Work (including but not limited to adding, deleting, or modifying), must clearly and prominently attribute the source of the Work in all copies and derivative works. The attribution information should include the following:
+
+*   Original Project: AIPromptJailbreakPractice (https://github.com/Acmesec/AIPromptJailbreakPractice)
+*   Original Author: Acmesec
+
+The attribution information should be placed: (a) in the header comments of each source file if in source code form; (b) in a prominent location in the accompanying documentation (e.g., README file, user manual, etc.) if in binary form.
+
+2. Commercial Use Authorization
+
+This License permits commercial use upon explicit written authorization from Acmesec. "Commercial use" includes, but is not limited to:
+
+*   Selling, licensing, or distributing the Work for a fee.
+*   Using the Work to provide a commercial service.
+*   Using the Work to promote a commercial product or service.
+*   Integrating the Work into a commercial product.
+
+Any use of the Work that is intended for or directed towards commercial advantage or monetary compensation is considered a commercial use.
+
+To obtain authorization for commercial use, please create a new Issue in this project's GitHub repository (https://github.com/Acmesec/AIPromptJailbreakPractice), clearly describing your intended commercial use. Acmesec will evaluate commercial use authorization requests according to its internal decision-making procedures and respond to your request in that Issue.
+
+Any commercial use without prior written authorization from Acmesec is considered a violation of this License.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+1. You must give appropriate credit, provide a link to the License, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests that the licensor endorses you or your use.
+
+2. If you distribute any part of the Work, you must include a copy of this License.
+
+This is the complete License governing permissions and limitations for the Work.
